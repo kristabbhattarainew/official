@@ -22,5 +22,5 @@ const onFormSubmit = () => {
   }
 
   //if name and password are valid
-  alert(`Login Successfull! Welcome ${name.value}.`);
+  alert(`Incorrect Password! Try again.`);
 };
